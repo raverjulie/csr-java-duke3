@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ test_CaesarCipher()
+comment1.params=
+comment1.target=void\ test_CaesarCracker()
+comment2.params=
+comment2.target=void\ test_VigenereCipher()
+comment3.params=
+comment3.target=void\ test_sliceString()
+comment4.params=
+comment4.target=void\ test_VigenereBreaker()
+comment5.params=
+comment5.target=void\ test_readDictionary()
+comment6.params=
+comment6.target=void\ test_countWords()
+comment7.params=
+comment7.target=void\ test_breakForLanguage()
+comment8.params=
+comment8.target=void\ quiz4()
+numComments=9

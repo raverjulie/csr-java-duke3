@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=ch
+comment0.target=boolean\ isVowel(java.lang.Character)
+comment1.params=
+comment1.target=void\ test_isVowel()
+comment10.params=
+comment10.target=void\ test_encryptTwoKeys()
+comment2.params=phrase\ ch
+comment2.target=java.lang.String\ replaceVowels(java.lang.String,\ java.lang.Character)
+comment3.params=
+comment3.target=void\ test_replaceVowels()
+comment4.params=phrase\ ch
+comment4.target=java.lang.String\ emphasize(java.lang.String,\ java.lang.Character)
+comment5.params=
+comment5.target=void\ test_emphasize()
+comment6.params=ch\ k
+comment6.target=java.lang.Character\ changeChar(java.lang.Character,\ int)
+comment7.params=input\ key
+comment7.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ test_encrypt()
+comment9.params=input\ key1\ key2
+comment9.target=java.lang.String\ encryptTwoKeys(java.lang.String,\ int,\ int)
+numComments=11
